@@ -1,0 +1,15 @@
+C:\Visual Studio\PSMSolution\PSMDAO\bin\Debug\net6.0\PSMDAO.deps.json
+C:\Visual Studio\PSMSolution\PSMDAO\bin\Debug\net6.0\PSMDAO.dll
+C:\Visual Studio\PSMSolution\PSMDAO\bin\Debug\net6.0\PSMDAO.pdb
+C:\Visual Studio\PSMSolution\PSMDAO\bin\Debug\net6.0\BuisinessObject.dll
+C:\Visual Studio\PSMSolution\PSMDAO\bin\Debug\net6.0\BuisinessObject.pdb
+C:\Visual Studio\PSMSolution\PSMDAO\obj\Debug\net6.0\PSMDAO.csproj.AssemblyReference.cache
+C:\Visual Studio\PSMSolution\PSMDAO\obj\Debug\net6.0\PSMDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\PSMSolution\PSMDAO\obj\Debug\net6.0\PSMDAO.AssemblyInfoInputs.cache
+C:\Visual Studio\PSMSolution\PSMDAO\obj\Debug\net6.0\PSMDAO.AssemblyInfo.cs
+C:\Visual Studio\PSMSolution\PSMDAO\obj\Debug\net6.0\PSMDAO.csproj.CoreCompileInputs.cache
+C:\Visual Studio\PSMSolution\PSMDAO\obj\Debug\net6.0\PSMDAO.csproj.CopyComplete
+C:\Visual Studio\PSMSolution\PSMDAO\obj\Debug\net6.0\PSMDAO.dll
+C:\Visual Studio\PSMSolution\PSMDAO\obj\Debug\net6.0\refint\PSMDAO.dll
+C:\Visual Studio\PSMSolution\PSMDAO\obj\Debug\net6.0\PSMDAO.pdb
+C:\Visual Studio\PSMSolution\PSMDAO\obj\Debug\net6.0\ref\PSMDAO.dll

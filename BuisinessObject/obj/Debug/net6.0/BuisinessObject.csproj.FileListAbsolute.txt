@@ -1,0 +1,11 @@
+C:\Visual Studio\PSMSolution\BuisinessObject\bin\Debug\net6.0\BuisinessObject.deps.json
+C:\Visual Studio\PSMSolution\BuisinessObject\bin\Debug\net6.0\BuisinessObject.dll
+C:\Visual Studio\PSMSolution\BuisinessObject\bin\Debug\net6.0\BuisinessObject.pdb
+C:\Visual Studio\PSMSolution\BuisinessObject\obj\Debug\net6.0\BuisinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\PSMSolution\BuisinessObject\obj\Debug\net6.0\BuisinessObject.AssemblyInfoInputs.cache
+C:\Visual Studio\PSMSolution\BuisinessObject\obj\Debug\net6.0\BuisinessObject.AssemblyInfo.cs
+C:\Visual Studio\PSMSolution\BuisinessObject\obj\Debug\net6.0\BuisinessObject.csproj.CoreCompileInputs.cache
+C:\Visual Studio\PSMSolution\BuisinessObject\obj\Debug\net6.0\BuisinessObject.dll
+C:\Visual Studio\PSMSolution\BuisinessObject\obj\Debug\net6.0\refint\BuisinessObject.dll
+C:\Visual Studio\PSMSolution\BuisinessObject\obj\Debug\net6.0\BuisinessObject.pdb
+C:\Visual Studio\PSMSolution\BuisinessObject\obj\Debug\net6.0\ref\BuisinessObject.dll

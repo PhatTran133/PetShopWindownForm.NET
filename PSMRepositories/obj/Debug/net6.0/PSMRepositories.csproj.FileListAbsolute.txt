@@ -1,0 +1,17 @@
+C:\Visual Studio\PSMSolution\PSMRepositories\bin\Debug\net6.0\PSMRepositories.deps.json
+C:\Visual Studio\PSMSolution\PSMRepositories\bin\Debug\net6.0\PSMRepositories.dll
+C:\Visual Studio\PSMSolution\PSMRepositories\bin\Debug\net6.0\PSMRepositories.pdb
+C:\Visual Studio\PSMSolution\PSMRepositories\bin\Debug\net6.0\BuisinessObject.dll
+C:\Visual Studio\PSMSolution\PSMRepositories\bin\Debug\net6.0\PSMDAO.dll
+C:\Visual Studio\PSMSolution\PSMRepositories\bin\Debug\net6.0\BuisinessObject.pdb
+C:\Visual Studio\PSMSolution\PSMRepositories\bin\Debug\net6.0\PSMDAO.pdb
+C:\Visual Studio\PSMSolution\PSMRepositories\obj\Debug\net6.0\PSMRepositories.csproj.AssemblyReference.cache
+C:\Visual Studio\PSMSolution\PSMRepositories\obj\Debug\net6.0\PSMRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio\PSMSolution\PSMRepositories\obj\Debug\net6.0\PSMRepositories.AssemblyInfoInputs.cache
+C:\Visual Studio\PSMSolution\PSMRepositories\obj\Debug\net6.0\PSMRepositories.AssemblyInfo.cs
+C:\Visual Studio\PSMSolution\PSMRepositories\obj\Debug\net6.0\PSMRepositories.csproj.CoreCompileInputs.cache
+C:\Visual Studio\PSMSolution\PSMRepositories\obj\Debug\net6.0\PSMRepositories.csproj.CopyComplete
+C:\Visual Studio\PSMSolution\PSMRepositories\obj\Debug\net6.0\PSMRepositories.dll
+C:\Visual Studio\PSMSolution\PSMRepositories\obj\Debug\net6.0\refint\PSMRepositories.dll
+C:\Visual Studio\PSMSolution\PSMRepositories\obj\Debug\net6.0\PSMRepositories.pdb
+C:\Visual Studio\PSMSolution\PSMRepositories\obj\Debug\net6.0\ref\PSMRepositories.dll

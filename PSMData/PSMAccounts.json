@@ -1,0 +1,1 @@
+{"Accounts":[{"Id":"A000","UserName":"admin","Password":"12345","Role":1},{"Id":"M001","UserName":"manager","Password":"12345","Role":2},{"Id":"C003","UserName":"customer","Password":"12345","Role":3}]}

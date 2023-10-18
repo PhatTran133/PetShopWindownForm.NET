@@ -1,0 +1,13 @@
+{
+    "BreedDogs":[
+        {
+            "Breed":"Shiba"
+        },
+        {
+            "Breed":"Chihuahua"
+        },
+        {
+            "Breed":"Corgi"
+        }
+    ]
+}
